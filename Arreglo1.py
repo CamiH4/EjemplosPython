@@ -7,5 +7,6 @@ print("Elementos del arreglo: ")
 print(numeros)
 numeros.insert(1, 15)
 print(numeros)
+#Elimina elementos 
 numeros.remove(3)
 print(numeros)
